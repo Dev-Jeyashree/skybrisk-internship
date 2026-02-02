@@ -23,5 +23,3 @@
 - POST /api/books
 - PUT /api/books/{id}
 - DELETE /api/books/{id}
-- PUT /api/books/{id}
-- DELETE /api/books/{id}
